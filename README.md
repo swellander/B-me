@@ -1,5 +1,3 @@
-# README
-
 # WordWindow
 A Ruby on Rails blogging app.
 
@@ -10,4 +8,5 @@ bundle install
 rails db:migrate
 rails server
 ```
+
 
