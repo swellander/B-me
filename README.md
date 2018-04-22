@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# WordWindow
+A Ruby on Rails blogging app.
 
-Things you may want to cover:
+## Quick Start
+Once you have rails installed on your local machine:
+```
+bundle install
+rails db:migrate
+rails server
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
