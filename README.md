@@ -1,5 +1,5 @@
 # WordWindow
-A Ruby on Rails blogging app.
+A tutorial-built Ruby on Rails blogging app.
 
 ## Quick Start
 Once you have rails installed on your local machine:
